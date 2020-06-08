@@ -1,10 +1,7 @@
-# Movie Recommendation
-### About this notebook
-Project to set ten movies with same similar plots
+# Data Science Projects
+### About this repository
+Some projects about data science
 
-### libraries used:
-- nunpy
-- pandas
-- spacy
-- sklearn
+### Notebooks
+
 
