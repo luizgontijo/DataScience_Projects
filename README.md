@@ -6,4 +6,4 @@ Some projects about data science
 
 ### Notebooks
 - [Movie Recommendation](https://github.com/luizgontijo/DataScience_Projects/blob/master/movie-recommendation.ipynb/)
-
+- [Titanic Competition - 91% accuracy](https://github.com/luizgontijo/DataScience_Projects/blob/master/titanic-competition.ipynb)
