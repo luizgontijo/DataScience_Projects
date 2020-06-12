@@ -1,4 +1,4 @@
-![ ](https://github.com/luizgontijo/DataScience_Projects/blob/master/data-science-course-840x450.jpg?raw=true)
+![ ](https://github.com/luizgontijo/DataScience_Projects/blob/master/banner_datascience.jpg)
 
 # Data Science Projects
 ### About this repository
