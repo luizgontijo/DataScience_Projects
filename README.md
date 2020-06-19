@@ -12,5 +12,5 @@ In this repository I will provide some notebooks I have developed.
 
 ### Notebooks
 - [Movie Recommendation](https://github.com/luizgontijo/DataScience_Projects/blob/master/movie-recommendation.ipynb/)
-- [Titanic Competition - 91% accuracy](https://github.com/luizgontijo/DataScience_Projects/blob/master/titanic_competition.ipynb)
+- [Titanic Competition](https://github.com/luizgontijo/DataScience_Projects/blob/master/titanic_competition.ipynb)
 - [Digit Recognizer](https://github.com/luizgontijo/DataScience_Projects/blob/master/Digit_Recognizer_competition.ipynb)
