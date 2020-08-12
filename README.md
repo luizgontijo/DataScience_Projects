@@ -1,4 +1,4 @@
-![ ](https://github.com/luizgontijo/DataScience_Projects/blob/master/banner_datascience.jpg)
+![ ](https://github.com/luizgontijo/DataScience_Projects/blob/master/img/banner_datascience.png)
 
 # Data Science Projects
 ### About this repository
