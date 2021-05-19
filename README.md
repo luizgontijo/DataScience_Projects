@@ -12,3 +12,4 @@ As a Electrical Engineer combine analytical skills, ability to work in team envi
 - [FIFA20 Football Analysis](https://github.com/luizgontijo/DataScience_Projects/blob/master/fifa20_football_analysis.ipynb)
 - [SVM Analysis Using Digit Recognition](https://github.com/luizgontijo/DataScience_Projects/blob/master/SVM_analysis_using_digt_recognition.ipynb)
 - [Introduction to Neural Networks](https://github.com/luizgontijo/DataScience_Projects/blob/master/introduction_to_neural_networks.ipynb)
+- [Fraud Classification] (https://github.com/luizgontijo/DataScience_Projects/blob/master/fraud_classification.ipynb)
